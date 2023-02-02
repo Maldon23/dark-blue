@@ -1,4 +1,4 @@
-# Simple platformer
+# simple platformer
 [![GitHub issues](https://img.shields.io/github/issues/C0smoCat/platformer)](https://github.com/C0smoCat/platformer/issues)
 [![GitHub forks](https://img.shields.io/github/forks/C0smoCat/platformer)](https://github.com/C0smoCat/platformer/network)
 [![GitHub stars](https://img.shields.io/github/stars/C0smoCat/platformer)](https://github.com/C0smoCat/platformer/stargazers)
@@ -6,18 +6,18 @@
 
 ![Screenshot 1](screenshots/1.png)
 ![Screenshot 2](screenshots/2.png)
-## Запуск
-### Локально
-* Клонируйте репозиторий
-* Откройте `index.html` с помощью браузера
-### Онлайн
+## Run
+### Locally
+* Clone the repository
+* Open `index.html` with a browser
+### Online
 https://c0smocat.github.io/platformer/
-### Управление
-`W` `A` `S` `D` / `стрелки` для движения
-## Фичи
-* Гравитацию можно менять
-* Несколько уровней
-* Поддержка сенсорного управления
-* Простое создание уровней (см. `index.html` через редактор)
-* ES6
-* Размер игры подстраивается под экран
+### Management
+`W` `A` `S` `D` / `arrows` for movement
+## Features
+* Gravity can be changed
+* Multiple levels
+* Touch control support
+* Easy creation of levels (see `index.html` via editor)
+*ES6
+* The size of the game adjusts to the screen
